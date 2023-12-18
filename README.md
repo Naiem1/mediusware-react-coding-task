@@ -1,4 +1,4 @@
-# **Mediusware Front-End Developer (ReactJS) Coding Task
+# Mediusware Front-End Developer (ReactJS) Coding Task
 
 ### Problem One
 
